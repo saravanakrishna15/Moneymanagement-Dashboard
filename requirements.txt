@@ -1,0 +1,5 @@
+pandas 
+numpy  
+panel==0.12.7
+holoviews==1.14.8
+hvplot==0.7.3
